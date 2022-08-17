@@ -1,0 +1,177 @@
+#a{
+    font-size: 50px;
+    font-family: 'Pacifico', cursive;
+    font-weight: 300;
+}
+.b{
+    font-size: 50px;
+    font-family: 'Bebas Neue', cursive;
+
+    color:black;
+    font-style: oblique;
+    font-weight: 300;
+    
+    
+    
+
+
+}
+
+
+
+body{
+    background-color: rgb(248, 248, 85);
+    margin-left: 5%;
+   
+    
+    
+
+}
+#download{
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    background:black;
+    text-decoration: none;
+    color: white;
+    padding: 10px 10px;
+    border-radius: 15px;
+  
+    
+}
+
+p1{
+    font-size: 15px;
+
+    margin-left: 4% ;
+    font-weight: bold;
+    background-color: aliceblue;  
+    padding: 1%;
+    border-radius: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+    
+
+}
+#c {
+    margin-left: 1%;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+
+img{
+    width: 300px;
+    height: 450px;
+    margin-left: 50%;
+}
+span{
+    padding-bottom: 50%;
+}
+
+p2{
+    background-color: aquamarine;
+    font-size: 20px;
+    
+    font-weight: bold;
+    
+    font-style: oblique;
+    
+    
+}
+.sky{
+    background-color:aquamarine;
+    padding: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    border-radius: 15px;
+    margin-right:13px
+}
+
+h3{
+    font-size: 25px;
+    color: red;
+    font-weight: bold;
+    font-style: oblique;
+    font-family: arial;
+}
+#img{
+    margin-left: 27px;
+    border-radius: 25px;
+    width: 300px;
+    height: 400px;
+}
+#name{
+    text-align: center;
+}
+#skills{
+    background-color: aquamarine;
+    padding: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    border-radius: 15px;
+    margin-right:13px
+}
+img{
+    margin-left: 27px;
+    border-radius: 25px;
+    width: 300px;
+    height: 200px;
+}
+.project{
+    background-color: aquamarine;
+    padding: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    border-radius: 15px;
+    margin-right:13px
+
+}
+h2{
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#up{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    background:black;
+    text-decoration: none;
+    color: white;
+    padding: 5px 5px;
+    border-radius: 10px;
+
+}
+
+hr{
+    border-color: black;
+    color: black;
+}
+p3{
+    text-transform: capitalize;
+    
+
+    padding: 10px 10px;   
+    background:orangered;
+    
+    font-style: oblique;
+    color:white;
+    
+    
+    border-radius: 20px;
+    margin-left: 36%;
+
+    
+
+}
+p6{
+    font-weight: bold;
+    margin-left: 23%;
+
+}
+.imgs{
+    width: 25px;
+    height: 25px;
+    padding-left: 2%; 
+    margin-left: 12%; 
+    
+}
